@@ -1,3 +1,3 @@
-Simple text is where I can quickly write some text to enable Grammarly to check them.
+Simple text box for testing purposes
 
 http://www.camelcaseconverter.nhely.hu/text/
